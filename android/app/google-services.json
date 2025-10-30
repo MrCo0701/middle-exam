@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "403486739048",
+    "project_id": "cinema-ticket-booking-ap-42dc4",
+    "storage_bucket": "cinema-ticket-booking-ap-42dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403486739048:android:997656ead8d86c6ec349dd",
+        "android_client_info": {
+          "package_name": "com.example.middle_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403486739048-7qrqnhij55hh3m04pnc9o7kau5ti6a6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.middle_exam",
+            "certificate_hash": "96423a73f5246d8b6834f69f34b3c07cf3061f71"
+          }
+        },
+        {
+          "client_id": "403486739048-v6cjeomqfs4fmfqbidmamvb14sofuvcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt-r61l34wjHChGopthgXFrfBC6jF4iI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403486739048-v6cjeomqfs4fmfqbidmamvb14sofuvcp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403486739048-09loatoc4nefphbdk799dd5ncui8opun.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.middleExam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
